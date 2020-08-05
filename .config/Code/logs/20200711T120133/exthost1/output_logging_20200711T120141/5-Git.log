@@ -1,0 +1,215 @@
+Looking for git in: git
+Using git 2.25.1 from git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/trandat/Programming/Travel
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :api/Tours/tours.controllers.js
+> git ls-files --stage -- /home/trandat/Programming/Travel/api/Tours/tours.controllers.js
+Failed to watch ref '/home/trandat/Programming/Travel/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/trandat/Programming/Travel/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:606659)
+	at T.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:84393)
+	at e.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:262)
+	at e.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:103799)
+> git check-ignore -v -z --stdin
+> git config --get commit.template
+> git cat-file -s 2eb65fd58c23be151ff1018f40ba160707bc4977
+> git check-ignore -v -z --stdin
+> git show :api/design/openapi: '3.0.2'.yml
+> git ls-files --stage -- /home/trandat/Programming/Travel/api/design/openapi: '3.0.2'.yml
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/trandat/Programming/Travel/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/trandat/Programming/Travel/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:606659)
+	at T.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:84393)
+	at e.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:262)
+	at e.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:103799)
+> git config --get commit.template
+> git show :api/design/openapi: '3.0.2'.yml
+> git ls-files --stage -- /home/trandat/Programming/Travel/api/design/openapi: '3.0.2'.yml
+> git show :api/design/openapi: '3.0.2'.yml
+> git ls-files --stage -- /home/trandat/Programming/Travel/api/design/openapi: '3.0.2'.yml
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/trandat/Programming/Travel/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/trandat/Programming/Travel/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:606659)
+	at T.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:84393)
+	at e.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:262)
+	at e.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:103799)
+> git config --get commit.template
+> git show :api/design/openapi: '3.0.2'.yml
+> git ls-files --stage -- /home/trandat/Programming/Travel/api/design/openapi: '3.0.2'.yml
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/trandat/Programming/Travel/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/trandat/Programming/Travel/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:606659)
+	at T.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:84393)
+	at e.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:262)
+	at e.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:103799)
+> git config --get commit.template
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/trandat/Programming/Travel/api/design/openapi: '3.0.2'.yml
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git show :api/design/openapi: '3.0.2'.yml
+> git ls-files --stage -- /home/trandat/Programming/Travel/api/design/openapi: '3.0.2'.yml
+> git show :api/Tours/tours.controllers.js
+> git ls-files --stage -- /home/trandat/Programming/Travel/api/Tours/tours.controllers.js
+> git cat-file -s 2eb65fd58c23be151ff1018f40ba160707bc4977
+> git show :api/Tours/tours.models.js
+> git ls-files --stage -- /home/trandat/Programming/Travel/api/Tours/tours.models.js
+> git cat-file -s 49083afad26ad8c7838f7dcac5ba9862006e8ca8
+> git show :api/Tours/tours.controllers.js
+> git ls-files --stage -- /home/trandat/Programming/Travel/api/Tours/tours.controllers.js
+> git cat-file -s 2eb65fd58c23be151ff1018f40ba160707bc4977
+> git show :api/Tours/tours.models.js
+> git ls-files --stage -- /home/trandat/Programming/Travel/api/Tours/tours.models.js
+> git cat-file -s 49083afad26ad8c7838f7dcac5ba9862006e8ca8
+> git check-ignore -v -z --stdin
+> git show :api/Tours/tours.models.js
+> git ls-files --stage -- /home/trandat/Programming/Travel/api/Tours/tours.models.js
+> git cat-file -s 49083afad26ad8c7838f7dcac5ba9862006e8ca8
+> git show :api/design/openapi: '3.0.2'.yml
+> git ls-files --stage -- /home/trandat/Programming/Travel/api/design/openapi: '3.0.2'.yml
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/trandat/Programming/Travel/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/trandat/Programming/Travel/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:606659)
+	at T.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:84393)
+	at e.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:262)
+	at e.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:103799)
+> git config --get commit.template
+> git show :api/Orders/orders.controllers.js
+> git ls-files --stage -- /home/trandat/Programming/Travel/api/Orders/orders.controllers.js
+> git cat-file -s 58685567f3f7feec55b905d2fb7c554edfa29eba
+> git show :api/design/openapi: '3.0.2'.yml
+> git ls-files --stage -- /home/trandat/Programming/Travel/api/design/openapi: '3.0.2'.yml
+> git check-ignore -v -z --stdin
+> git show :api/Tours/tours.routes.js
+> git ls-files --stage -- /home/trandat/Programming/Travel/api/Tours/tours.routes.js
+> git cat-file -s 70995844d40a3d47c36d6d36f060f98d48689077
+> git show :api/design/openapi: '3.0.2'.yml
+> git ls-files --stage -- /home/trandat/Programming/Travel/api/design/openapi: '3.0.2'.yml
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/trandat/Programming/Travel/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/trandat/Programming/Travel/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:606659)
+	at T.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:84393)
+	at e.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:262)
+	at e.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:103799)
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show :api/Users/user.routes.js
+> git ls-files --stage -- /home/trandat/Programming/Travel/api/Users/user.routes.js
+> git cat-file -s 30d6d063227f54e54cfdd748b8b9c52f01eab884
+> git show :api/design/openapi: '3.0.2'.yml
+> git ls-files --stage -- /home/trandat/Programming/Travel/api/design/openapi: '3.0.2'.yml
+> git show :api/Users/user.routes.js
+> git ls-files --stage -- /home/trandat/Programming/Travel/api/Users/user.routes.js
+> git cat-file -s 30d6d063227f54e54cfdd748b8b9c52f01eab884
+> git show :api/design/openapi: '3.0.2'.yml
+> git ls-files --stage -- /home/trandat/Programming/Travel/api/design/openapi: '3.0.2'.yml
+> git show :api/Tours/tours.controllers.js
+> git ls-files --stage -- /home/trandat/Programming/Travel/api/Tours/tours.controllers.js
+> git cat-file -s 2eb65fd58c23be151ff1018f40ba160707bc4977
+> git show :api/design/openapi: '3.0.2'.yml
+> git ls-files --stage -- /home/trandat/Programming/Travel/api/design/openapi: '3.0.2'.yml
+> git show :api/Tours/tours.routes.js
+> git ls-files --stage -- /home/trandat/Programming/Travel/api/Tours/tours.routes.js
+> git cat-file -s 70995844d40a3d47c36d6d36f060f98d48689077
+> git show :api/design/openapi: '3.0.2'.yml
+> git ls-files --stage -- /home/trandat/Programming/Travel/api/design/openapi: '3.0.2'.yml
+> git show :api/Tours/tours.routes.js
+> git ls-files --stage -- /home/trandat/Programming/Travel/api/Tours/tours.routes.js
+> git cat-file -s 70995844d40a3d47c36d6d36f060f98d48689077
+> git show :api/design/openapi: '3.0.2'.yml
+> git ls-files --stage -- /home/trandat/Programming/Travel/api/design/openapi: '3.0.2'.yml
+> git show :api/Tours/tours.routes.js
+> git ls-files --stage -- /home/trandat/Programming/Travel/api/Tours/tours.routes.js
+> git cat-file -s 70995844d40a3d47c36d6d36f060f98d48689077
+> git show :api/design/openapi: '3.0.2'.yml
+> git ls-files --stage -- /home/trandat/Programming/Travel/api/design/openapi: '3.0.2'.yml
+> git show :api/Tours/tours.routes.js
+> git ls-files --stage -- /home/trandat/Programming/Travel/api/Tours/tours.routes.js
+> git cat-file -s 70995844d40a3d47c36d6d36f060f98d48689077
+> git show :api/Tours/tours.controllers.js
+> git ls-files --stage -- /home/trandat/Programming/Travel/api/Tours/tours.controllers.js
+> git cat-file -s 2eb65fd58c23be151ff1018f40ba160707bc4977
+> git show :api/Tours/tours.routes.js
+> git ls-files --stage -- /home/trandat/Programming/Travel/api/Tours/tours.routes.js
+> git cat-file -s 70995844d40a3d47c36d6d36f060f98d48689077
+> git show :api/Tours/tours.controllers.js
+> git ls-files --stage -- /home/trandat/Programming/Travel/api/Tours/tours.controllers.js
+> git cat-file -s 2eb65fd58c23be151ff1018f40ba160707bc4977
+> git show :api/design/openapi: '3.0.2'.yml
+> git ls-files --stage -- /home/trandat/Programming/Travel/api/design/openapi: '3.0.2'.yml
+> git show :api/Tours/tours.controllers.js
+> git ls-files --stage -- /home/trandat/Programming/Travel/api/Tours/tours.controllers.js
+> git cat-file -s 2eb65fd58c23be151ff1018f40ba160707bc4977
+> git show :api/design/openapi: '3.0.2'.yml
+> git ls-files --stage -- /home/trandat/Programming/Travel/api/design/openapi: '3.0.2'.yml
+> git show :api/Users/user.models.js
+> git ls-files --stage -- /home/trandat/Programming/Travel/api/Users/user.models.js
+> git cat-file -s cb1694650bf4558d1ded5e897f6a0b1fe01da410
+> git show :api/design/openapi: '3.0.2'.yml
+> git ls-files --stage -- /home/trandat/Programming/Travel/api/design/openapi: '3.0.2'.yml
+> git show :api/Tours/tours.models.js
+> git ls-files --stage -- /home/trandat/Programming/Travel/api/Tours/tours.models.js
+> git cat-file -s 49083afad26ad8c7838f7dcac5ba9862006e8ca8
+> git show :api/design/openapi: '3.0.2'.yml
+> git ls-files --stage -- /home/trandat/Programming/Travel/api/design/openapi: '3.0.2'.yml
+> git show :api/Tours/tours.models.js
+> git ls-files --stage -- /home/trandat/Programming/Travel/api/Tours/tours.models.js
+> git cat-file -s 49083afad26ad8c7838f7dcac5ba9862006e8ca8
+> git show :api/design/openapi: '3.0.2'.yml
+> git ls-files --stage -- /home/trandat/Programming/Travel/api/design/openapi: '3.0.2'.yml

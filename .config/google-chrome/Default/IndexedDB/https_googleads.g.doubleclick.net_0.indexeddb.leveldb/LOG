@@ -1,0 +1,8 @@
+2020/07/24-19:54:34.869 22ba Reusing MANIFEST /home/trandat/.config/google-chrome/Default/IndexedDB/https_googleads.g.doubleclick.net_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/24-19:54:34.870 22ba Recovering log #28
+2020/07/24-19:54:34.870 22ba Reusing old log /home/trandat/.config/google-chrome/Default/IndexedDB/https_googleads.g.doubleclick.net_0.indexeddb.leveldb/000028.log 
+2020/07/24-19:54:38.338 2138 Level-0 table #32: started
+2020/07/24-19:54:38.338 2138 Level-0 table #32: 0 bytes OK
+2020/07/24-19:54:38.345 2138 Delete type=0 #28
+2020/07/24-19:54:38.346 2138 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/07/24-19:54:38.346 2138 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

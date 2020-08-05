@@ -1,0 +1,15 @@
+2020/07/14-20:52:35.808 22fb Reusing MANIFEST /home/trandat/.config/google-chrome/Default/IndexedDB/https_www.postman.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/14-20:52:35.809 22fb Recovering log #4
+2020/07/14-20:52:35.809 22fb Reusing old log /home/trandat/.config/google-chrome/Default/IndexedDB/https_www.postman.com_0.indexeddb.leveldb/000004.log 
+2020/07/14-20:54:31.384 e22 Level-0 table #8: started
+2020/07/14-20:54:31.600 e22 Level-0 table #8: 827 bytes OK
+2020/07/14-20:54:31.603 e22 Delete type=0 #4
+2020/07/14-20:54:31.604 e22 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/07/14-20:54:31.604 e22 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01#\x00r\x00e\x00s\x00o\x00u\x00r\x00c\x00e\x00s\x00:\x00/\x00d\x00o\x00w\x00n\x00l\x00o\x00a\x00d\x00s\x00/\x00r\x00e\x00l\x00e\x00a\x00s\x00e\x00-\x00n\x00o\x00t\x00e\x00s\x00/' @ 73 : 1
+2020/07/14-20:54:31.604 e22 Compacting 1@1 + 1@2 files
+2020/07/14-20:54:31.607 e22 Generated table #9@1: 21 keys, 785 bytes
+2020/07/14-20:54:31.607 e22 Compacted 1@1 + 1@2 files => 785 bytes
+2020/07/14-20:54:31.610 e22 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/07/14-20:54:31.610 e22 Delete type=2 #8
+2020/07/14-20:54:31.610 e22 Delete type=2 #5
+2020/07/14-20:54:31.611 e22 Manual compaction at level-1 from '\x00\x01\x01\x02\x01#\x00r\x00e\x00s\x00o\x00u\x00r\x00c\x00e\x00s\x00:\x00/\x00d\x00o\x00w\x00n\x00l\x00o\x00a\x00d\x00s\x00/\x00r\x00e\x00l\x00e\x00a\x00s\x00e\x00-\x00n\x00o\x00t\x00e\x00s\x00/' @ 73 : 1 .. (end); will stop at (end)

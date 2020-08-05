@@ -1,0 +1,15 @@
+2020/07/21-20:01:09.142 11d91 Reusing MANIFEST /home/trandat/.config/google-chrome/Default/IndexedDB/https_www.barbarianmeetscoding.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/21-20:01:09.142 11d91 Recovering log #7
+2020/07/21-20:01:09.142 11d91 Reusing old log /home/trandat/.config/google-chrome/Default/IndexedDB/https_www.barbarianmeetscoding.com_0.indexeddb.leveldb/000007.log 
+2020/07/21-20:01:43.093 117a1 Level-0 table #12: started
+2020/07/21-20:01:43.097 117a1 Level-0 table #12: 4209 bytes OK
+2020/07/21-20:01:43.100 117a1 Delete type=0 #7
+2020/07/21-20:01:43.100 117a1 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/07/21-20:01:43.101 117a1 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x10\x00r\x00e\x00s\x00o\x00u\x00r\x00c\x00e\x00s\x00:\x00/\x00w\x00i\x00k\x00i\x00/' @ 301 : 1
+2020/07/21-20:01:43.101 117a1 Compacting 1@1 + 1@2 files
+2020/07/21-20:01:43.104 117a1 Generated table #13@1: 47 keys, 1864 bytes
+2020/07/21-20:01:43.104 117a1 Compacted 1@1 + 1@2 files => 1864 bytes
+2020/07/21-20:01:43.106 117a1 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/07/21-20:01:43.106 117a1 Delete type=2 #9
+2020/07/21-20:01:43.106 117a1 Delete type=2 #12
+2020/07/21-20:01:43.107 117a1 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x10\x00r\x00e\x00s\x00o\x00u\x00r\x00c\x00e\x00s\x00:\x00/\x00w\x00i\x00k\x00i\x00/' @ 301 : 1 .. (end); will stop at (end)

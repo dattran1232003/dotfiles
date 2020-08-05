@@ -1,0 +1,29 @@
+[Data Source]
+DisplayName=dattran1232003@gmail.com
+Enabled=true
+Parent=4a535d5d8b26a5c3fab799aebcce2419609fcc64
+
+[Mail Submission]
+SentFolder=folder://local/Sent
+TransportUid=4aa2977be439390a1cdd1ec5303d2f27239740d0
+RepliesToOriginFolder=false
+UseSentFolder=true
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://local/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=
+StartBottom=inconsistent
+TopSignature=inconsistent
+Language=
+
+[Mail Identity]
+Address=dattran1232003@gmail.com
+Aliases=
+Name=
+Organization=
+ReplyTo=
+SignatureUid=none

@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/home/trandat/backup/dotfile'
+let g:netrw_dirhist_8='/home/trandat/backup/dotfile/.oh-my-zsh'
+let g:netrw_dirhist_7='/home/trandat/backup/dotfile'
+let g:netrw_dirhist_6='/home/trandat/backup/dotfile/.git'
+let g:netrw_dirhist_5='/home/trandat/backup/dotfile'
+let g:netrw_dirhist_4='/home/trandat/Programming/Travel/client/src/customHooks/Pathname'
+let g:netrw_dirhist_3='/home/trandat/Programming/Travel/client/src/customHooks'
+let g:netrw_dirhist_2='/home/trandat/Programming/Travel/client/src'
+let g:netrw_dirhist_1='/home/trandat/Programming/Travel/client/src/components'
+let g:netrw_dirhist_0='/home/trandat/Programming/Travel/client/src'

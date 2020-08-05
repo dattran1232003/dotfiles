@@ -1,0 +1,5 @@
+2020/07/19-12:46:06.509 359e Reusing MANIFEST /home/trandat/.config/google-chrome/Default/IndexedDB/https_vntalking.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/19-12:46:13.033 12e3 Level-0 table #5: started
+2020/07/19-12:46:13.037 12e3 Level-0 table #5: 6189 bytes OK
+2020/07/19-12:46:13.041 12e3 Delete type=0 #3
+2020/07/19-12:46:13.041 12e3 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

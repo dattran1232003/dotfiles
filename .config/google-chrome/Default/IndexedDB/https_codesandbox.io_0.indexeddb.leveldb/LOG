@@ -1,0 +1,5 @@
+2020/07/14-08:44:11.397 4e76 Reusing MANIFEST /home/trandat/.config/google-chrome/Default/IndexedDB/https_codesandbox.io_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/14-08:45:03.353 44dc Level-0 table #5: started
+2020/07/14-08:45:03.358 44dc Level-0 table #5: 1512 bytes OK
+2020/07/14-08:45:03.361 44dc Delete type=0 #3
+2020/07/14-08:45:03.361 44dc Manual compaction at level-0 from (begin) .. (end); will stop at (end)

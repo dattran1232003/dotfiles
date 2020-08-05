@@ -1,0 +1,5 @@
+2020/07/25-01:02:33.081 1a8d Reusing MANIFEST /home/trandat/.config/google-chrome/Default/IndexedDB/https_www.imdb.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/25-01:02:38.423 121a Level-0 table #5: started
+2020/07/25-01:02:38.426 121a Level-0 table #5: 1331 bytes OK
+2020/07/25-01:02:38.431 121a Delete type=0 #3
+2020/07/25-01:02:38.431 121a Manual compaction at level-0 from (begin) .. (end); will stop at (end)

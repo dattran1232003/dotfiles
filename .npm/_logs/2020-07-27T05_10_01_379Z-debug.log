@@ -1,0 +1,35 @@
+0 info it worked if it ends with ok
+1 verbose cli [
+1 verbose cli   '/usr/bin/node',
+1 verbose cli   '/usr/bin/npm',
+1 verbose cli   'install',
+1 verbose cli   '@types/data.validation'
+1 verbose cli ]
+2 info using npm@6.14.6
+3 info using node@v14.6.0
+4 verbose npm-session 66da3255c6886077
+5 silly install loadCurrentTree
+6 silly install readLocalPackageData
+7 http fetch GET 404 https://registry.npmjs.org/@types%2fdata.validation 1030ms
+8 http fetch GET 404 https://registry.npmjs.org/@types%2fdata.validation 922ms
+9 silly fetchPackageMetaData error for @types/data.validation@latest 404 Not Found - GET https://registry.npmjs.org/@types%2fdata.validation - Not found
+10 timing stage:rollbackFailedOptional Completed in 1ms
+11 timing stage:runTopLevelLifecycles Completed in 6585ms
+12 verbose stack Error: 404 Not Found - GET https://registry.npmjs.org/@types%2fdata.validation - Not found
+12 verbose stack     at /usr/lib/node_modules/npm/node_modules/npm-registry-fetch/check-response.js:114:15
+12 verbose stack     at processTicksAndRejections (internal/process/task_queues.js:93:5)
+13 verbose statusCode 404
+14 verbose pkgid @types/data.validation@latest
+15 verbose cwd /home/trandat/Programming/Travel
+16 verbose Linux 5.4.0-42-generic
+17 verbose argv "/usr/bin/node" "/usr/bin/npm" "install" "@types/data.validation"
+18 verbose node v14.6.0
+19 verbose npm  v6.14.6
+20 error code E404
+21 error 404 Not Found - GET https://registry.npmjs.org/@types%2fdata.validation - Not found
+22 error 404
+23 error 404 '@types/data.validation@latest' is not in the npm registry.
+24 error 404 You should bug the author to publish it (or use the name yourself!)
+25 error 404 Note that you can also install from a
+26 error 404 tarball, folder, http url, or git url.
+27 verbose exit [ 1, true ]

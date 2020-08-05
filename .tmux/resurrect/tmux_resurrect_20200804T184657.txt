@@ -1,0 +1,9 @@
+pane	0	0	:vim	1	:*	0	:/home/trandat	1	vim	:vim .tmux.conf
+pane	1	0	:vim	1	:*	0	:/home/trandat	1	vim	:
+pane	3	0	:vim	1	:*	0	:/home/trandat	1	vim	:vim /home/trandat/Programming/Travel
+pane	3	0	:vim	1	:*	1	:/home/trandat/Programming/Travel	0	node	:node /usr/bin/yarn dev
+pane	3	0	:vim	1	:*	2	:/home/trandat/Programming/Travel/client	0	zsh	:
+window	0	0	1	:*	ac3d,170x40,0,0,0
+window	1	0	1	:*	ac40,170x40,0,0,3
+window	3	0	1	:*	0796,195x49,0,0[195x36,0,0,7,195x12,0,37{97x12,0,37,8,97x12,98,37,9}]
+state	3	

@@ -1,0 +1,15 @@
+2020/07/30-14:51:35.284 3156 Reusing MANIFEST /home/trandat/.config/google-chrome/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/30-14:51:35.285 3156 Recovering log #275
+2020/07/30-14:51:35.285 3156 Reusing old log /home/trandat/.config/google-chrome/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/000275.log 
+2020/07/30-14:52:08.330 329d Level-0 table #280: started
+2020/07/30-14:52:08.335 329d Level-0 table #280: 673 bytes OK
+2020/07/30-14:52:08.339 329d Delete type=0 #275
+2020/07/30-14:52:08.339 329d Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/07/30-14:52:08.339 329d Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x0a\x00s\x00w\x00_\x00v\x00e\x00r\x00s\x00i\x00o\x00n' @ 1759 : 1
+2020/07/30-14:52:08.339 329d Compacting 1@1 + 1@2 files
+2020/07/30-14:52:08.343 329d Generated table #281@1: 22 keys, 662 bytes
+2020/07/30-14:52:08.343 329d Compacted 1@1 + 1@2 files => 662 bytes
+2020/07/30-14:52:08.346 329d compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/07/30-14:52:08.347 329d Delete type=2 #280
+2020/07/30-14:52:08.347 329d Delete type=2 #277
+2020/07/30-14:52:08.347 329d Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x0a\x00s\x00w\x00_\x00v\x00e\x00r\x00s\x00i\x00o\x00n' @ 1759 : 1 .. (end); will stop at (end)

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=syndaemon -i 1 -t -K -R -d
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=Typing Touchpad Disable
+Name=Typing Touchpad Disable
+Comment[en_US]=This'll be disable touchpad while typing
+Comment=This'll be disable touchpad while typing

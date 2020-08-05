@@ -1,0 +1,25 @@
+{
+   "background": {
+      "page": "background.html"
+   },
+   "browser_action": {
+      "default_popup": "popup.html"
+   },
+   "content_security_policy": "script-src 'self' https://www.google-analytics.com; object-src 'self'",
+   "description": "Right Click to translate selected text into a new Tab using Google Translate",
+   "icons": {
+      "128": "images/icon128.png",
+      "16": "images/icon16.png",
+      "48": "images/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAkYEXPG+8pIEloDMhATM3kKOXDqz9pfACClSY2A4BVPp5ACyvZw4Hm81gD/5EsKe7xMEkxzd/CD6G7KmLCU6QJvuvJXFD9ld6NJzEw6RV123K/bsrhDnH+noeNtZR6eb6zKtb+kHIGE+RwkpV2corK3c5rYi4Rv7+fEZy4oANBoQxHb6rQuSIqvHimRGv0ZO3HO0uB5rEV7YfiW16RwU5wLgs24jsGHVugw0wwf+yylPr1aabj+jkNvLUKiVV3z8qDyCs1p9Cnj+Z2vTcPE7Ylnp8rtg4Dzrh7OtfdNyjodi3SidOFtgFLv3wWZjL+hp6jybDDY6F+ZTu2hRzEM/nHwIDAQAB",
+   "manifest_version": 2,
+   "name": "Right Click Translate",
+   "options_ui": {
+      "chrome_style": true,
+      "page": "options.html"
+   },
+   "permissions": [ "contextMenus", "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.8.7"
+}

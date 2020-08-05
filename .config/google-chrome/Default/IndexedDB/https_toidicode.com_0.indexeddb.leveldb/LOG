@@ -1,0 +1,5 @@
+2020/07/14-20:18:14.447 15db Reusing MANIFEST /home/trandat/.config/google-chrome/Default/IndexedDB/https_toidicode.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/14-20:18:29.749 e22 Level-0 table #5: started
+2020/07/14-20:18:29.753 e22 Level-0 table #5: 5702 bytes OK
+2020/07/14-20:18:29.757 e22 Delete type=0 #3
+2020/07/14-20:18:29.757 e22 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

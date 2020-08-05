@@ -1,0 +1,15 @@
+2020/07/25-13:29:14.813 b58b Reusing MANIFEST /home/trandat/.config/google-chrome/Default/IndexedDB/https_shopee.vn_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/25-13:29:14.814 b58b Recovering log #58
+2020/07/25-13:29:14.814 b58b Reusing old log /home/trandat/.config/google-chrome/Default/IndexedDB/https_shopee.vn_0.indexeddb.leveldb/000058.log 
+2020/07/25-13:29:54.069 a619 Level-0 table #63: started
+2020/07/25-13:29:54.076 a619 Level-0 table #63: 48758 bytes OK
+2020/07/25-13:29:54.079 a619 Delete type=0 #58
+2020/07/25-13:29:54.079 a619 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/07/25-13:29:54.079 a619 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x02\x02\x01\x0f\x00c\x00u\x00r\x00r\x00e\x00n\x00t\x00_\x00s\x00e\x00s\x00s\x00i\x00o\x00n' @ 5145 : 1
+2020/07/25-13:29:54.080 a619 Compacting 1@1 + 1@2 files
+2020/07/25-13:29:54.083 a619 Generated table #64@1: 181 keys, 4322 bytes
+2020/07/25-13:29:54.083 a619 Compacted 1@1 + 1@2 files => 4322 bytes
+2020/07/25-13:29:54.087 a619 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/07/25-13:29:54.087 a619 Delete type=2 #60
+2020/07/25-13:29:54.087 a619 Delete type=2 #63
+2020/07/25-13:29:54.088 a619 Manual compaction at level-1 from '\x00\x01\x02\x02\x01\x0f\x00c\x00u\x00r\x00r\x00e\x00n\x00t\x00_\x00s\x00e\x00s\x00s\x00i\x00o\x00n' @ 5145 : 1 .. (end); will stop at (end)

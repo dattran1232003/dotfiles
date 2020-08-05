@@ -1,0 +1,15 @@
+2020/07/14-09:02:08.128 5985 Reusing MANIFEST /home/trandat/.config/google-chrome/Default/IndexedDB/https_fontawesome.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/14-09:02:08.128 5985 Recovering log #4
+2020/07/14-09:02:08.128 5985 Reusing old log /home/trandat/.config/google-chrome/Default/IndexedDB/https_fontawesome.com_0.indexeddb.leveldb/000004.log 
+2020/07/14-09:02:21.181 44dc Level-0 table #8: started
+2020/07/14-09:02:21.186 44dc Level-0 table #8: 3187 bytes OK
+2020/07/14-09:02:21.189 44dc Delete type=0 #4
+2020/07/14-09:02:21.190 44dc Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/07/14-09:02:21.190 44dc Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01\x11\x00s\x00h\x00o\x00w\x00A\x00f\x00t\x00e\x00r\x00:\x00u\x00s\x00e\x00l\x00e\x00s\x00s' @ 260 : 1
+2020/07/14-09:02:21.190 44dc Compacting 1@1 + 1@2 files
+2020/07/14-09:02:21.193 44dc Generated table #9@1: 53 keys, 1188 bytes
+2020/07/14-09:02:21.194 44dc Compacted 1@1 + 1@2 files => 1188 bytes
+2020/07/14-09:02:21.196 44dc compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/07/14-09:02:21.197 44dc Delete type=2 #8
+2020/07/14-09:02:21.197 44dc Delete type=2 #5
+2020/07/14-09:02:21.197 44dc Manual compaction at level-1 from '\x00\x02\x01\x02\x01\x11\x00s\x00h\x00o\x00w\x00A\x00f\x00t\x00e\x00r\x00:\x00u\x00s\x00e\x00l\x00e\x00s\x00s' @ 260 : 1 .. (end); will stop at (end)

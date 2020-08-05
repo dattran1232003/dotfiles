@@ -1,0 +1,8 @@
+[2020-07-11 12:01:37.807] [sharedprocess] [info] main {"machineId":"cf6a220f279cbaf9b601e8725fc762494c21b41ac8276789638b065d53333df0","windowId":2}
+[2020-07-11 12:02:17.893] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-07-11 14:38:01.575] [sharedprocess] [info] Installing extension: vscodevim.vim
+[2020-07-11 14:38:02.408] [sharedprocess] [info] Downloaded extension: vscodevim.vim /tmp/8b95fea5-7a83-412a-96b5-f3b1e37dd9ab
+[2020-07-11 14:38:02.514] [sharedprocess] [info] Extracted extension to /home/trandat/.vscode/extensions/.vscodevim.vim-1.14.5: vscodevim.vim
+[2020-07-11 14:38:02.514] [sharedprocess] [info] Renamed to /home/trandat/.vscode/extensions/vscodevim.vim-1.14.5
+[2020-07-11 14:38:02.516] [sharedprocess] [info] Installation completed. vscodevim.vim
+[2020-07-11 14:38:02.532] [sharedprocess] [info] Extensions installed successfully: vscodevim.vim

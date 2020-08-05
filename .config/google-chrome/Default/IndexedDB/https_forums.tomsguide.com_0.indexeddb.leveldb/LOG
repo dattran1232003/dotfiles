@@ -1,0 +1,8 @@
+2020/07/18-14:52:53.637 1077 Reusing MANIFEST /home/trandat/.config/google-chrome/Default/IndexedDB/https_forums.tomsguide.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/18-14:52:53.638 1077 Recovering log #4
+2020/07/18-14:52:53.638 1077 Reusing old log /home/trandat/.config/google-chrome/Default/IndexedDB/https_forums.tomsguide.com_0.indexeddb.leveldb/000004.log 
+2020/07/18-14:53:08.682 f41 Level-0 table #8: started
+2020/07/18-14:53:08.683 f41 Level-0 table #8: 0 bytes OK
+2020/07/18-14:53:08.689 f41 Delete type=0 #4
+2020/07/18-14:53:08.690 f41 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/07/18-14:53:08.690 f41 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

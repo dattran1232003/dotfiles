@@ -1,0 +1,14 @@
+[2020-07-10 19:37:34.009] [sharedprocess] [info] main {"machineId":"cf6a220f279cbaf9b601e8725fc762494c21b41ac8276789638b065d53333df0","windowId":2}
+[2020-07-10 19:38:14.097] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-07-10 19:57:39.454] [sharedprocess] [info] Installing extension: 42crunch.vscode-openapi
+[2020-07-10 19:57:40.471] [sharedprocess] [info] Downloaded extension: 42crunch.vscode-openapi /tmp/98951966-2aeb-4161-933d-b3cafdbda4ad
+[2020-07-10 19:57:42.361] [sharedprocess] [info] Extracted extension to /home/trandat/.vscode/extensions/.42crunch.vscode-openapi-3.4.0: 42crunch.vscode-openapi
+[2020-07-10 19:57:42.362] [sharedprocess] [info] Renamed to /home/trandat/.vscode/extensions/42crunch.vscode-openapi-3.4.0
+[2020-07-10 19:57:42.363] [sharedprocess] [info] Installation completed. 42crunch.vscode-openapi
+[2020-07-10 19:57:42.802] [sharedprocess] [info] Installing extension: redhat.vscode-yaml
+[2020-07-10 19:57:43.970] [sharedprocess] [info] Downloaded extension: redhat.vscode-yaml /tmp/ec120666-56da-4d87-bbb7-9aa6d35379a5
+[2020-07-10 19:57:45.906] [sharedprocess] [info] Extracted extension to /home/trandat/.vscode/extensions/.redhat.vscode-yaml-0.8.0: redhat.vscode-yaml
+[2020-07-10 19:57:45.906] [sharedprocess] [info] Renamed to /home/trandat/.vscode/extensions/redhat.vscode-yaml-0.8.0
+[2020-07-10 19:57:45.907] [sharedprocess] [info] Installation completed. redhat.vscode-yaml
+[2020-07-10 19:57:45.917] [sharedprocess] [info] Extensions installed successfully: redhat.vscode-yaml
+[2020-07-10 19:57:45.921] [sharedprocess] [info] Extensions installed successfully: 42crunch.vscode-openapi

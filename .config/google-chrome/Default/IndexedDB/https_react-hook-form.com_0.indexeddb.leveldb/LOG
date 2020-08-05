@@ -1,0 +1,5 @@
+2020/07/23-15:06:21.422 4a9b Reusing MANIFEST /home/trandat/.config/google-chrome/Default/IndexedDB/https_react-hook-form.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/23-15:06:54.208 15df Level-0 table #5: started
+2020/07/23-15:06:54.211 15df Level-0 table #5: 2549 bytes OK
+2020/07/23-15:06:54.214 15df Delete type=0 #3
+2020/07/23-15:06:54.215 15df Manual compaction at level-0 from (begin) .. (end); will stop at (end)

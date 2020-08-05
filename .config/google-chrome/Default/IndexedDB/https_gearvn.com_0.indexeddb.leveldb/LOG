@@ -1,0 +1,8 @@
+2020/07/18-16:19:10.099 1a88 Reusing MANIFEST /home/trandat/.config/google-chrome/Default/IndexedDB/https_gearvn.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/18-16:19:10.099 1a88 Recovering log #4
+2020/07/18-16:19:10.099 1a88 Reusing old log /home/trandat/.config/google-chrome/Default/IndexedDB/https_gearvn.com_0.indexeddb.leveldb/000004.log 
+2020/07/18-16:19:20.226 f41 Level-0 table #8: started
+2020/07/18-16:19:20.226 f41 Level-0 table #8: 0 bytes OK
+2020/07/18-16:19:20.231 f41 Delete type=0 #4
+2020/07/18-16:19:20.231 f41 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/07/18-16:19:20.231 f41 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

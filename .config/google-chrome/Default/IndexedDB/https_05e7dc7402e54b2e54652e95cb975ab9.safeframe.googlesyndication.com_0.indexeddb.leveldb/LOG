@@ -1,0 +1,8 @@
+2020/07/17-07:28:21.010 4da8 Reusing MANIFEST /home/trandat/.config/google-chrome/Default/IndexedDB/https_05e7dc7402e54b2e54652e95cb975ab9.safeframe.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/17-07:28:21.010 4da8 Recovering log #4
+2020/07/17-07:28:21.010 4da8 Reusing old log /home/trandat/.config/google-chrome/Default/IndexedDB/https_05e7dc7402e54b2e54652e95cb975ab9.safeframe.googlesyndication.com_0.indexeddb.leveldb/000004.log 
+2020/07/17-07:28:25.953 4b8d Level-0 table #8: started
+2020/07/17-07:28:25.953 4b8d Level-0 table #8: 0 bytes OK
+2020/07/17-07:28:25.959 4b8d Delete type=0 #4
+2020/07/17-07:28:25.959 4b8d Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/07/17-07:28:25.959 4b8d Manual compaction at level-1 from (begin) .. (end); will stop at (end)

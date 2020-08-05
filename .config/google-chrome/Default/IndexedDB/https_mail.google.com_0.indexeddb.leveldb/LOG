@@ -1,0 +1,15 @@
+2020/07/25-14:54:29.195 11dbc Reusing MANIFEST /home/trandat/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/25-14:54:29.195 11dbc Recovering log #11
+2020/07/25-14:54:29.196 11dbc Reusing old log /home/trandat/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000011.log 
+2020/07/25-14:55:15.979 11cea Level-0 table #16: started
+2020/07/25-14:55:15.990 11cea Level-0 table #16: 78606 bytes OK
+2020/07/25-14:55:15.995 11cea Delete type=0 #11
+2020/07/25-14:55:15.995 11cea Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/07/25-14:55:15.996 11cea Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x08\x01\x02\x019\x00S\x00t\x00o\x00r\x00e\x00d\x00C\x00a\x00c\x00h\x00e\x00H\x00i\x00t\x00C\x00o\x00u\x00n\x00t\x00e\x00r\x00s\x00:\x00:\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00m\x00a\x00i\x00l\x00.\x00g\x00o\x00o\x00g\x00l\x00e\x00.\x00c\x00o\x00m\x00/\x00m\x00a\x00i\x00l\x00/\x00u\x00/\x000\x00/' @ 4974 : 1
+2020/07/25-14:55:15.996 11cea Compacting 1@1 + 1@2 files
+2020/07/25-14:55:16.004 11cea Generated table #17@1: 141 keys, 100641 bytes
+2020/07/25-14:55:16.004 11cea Compacted 1@1 + 1@2 files => 100641 bytes
+2020/07/25-14:55:16.006 11cea compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/07/25-14:55:16.007 11cea Delete type=2 #16
+2020/07/25-14:55:16.007 11cea Delete type=2 #13
+2020/07/25-14:55:16.008 11cea Manual compaction at level-1 from '\x00\x08\x01\x02\x019\x00S\x00t\x00o\x00r\x00e\x00d\x00C\x00a\x00c\x00h\x00e\x00H\x00i\x00t\x00C\x00o\x00u\x00n\x00t\x00e\x00r\x00s\x00:\x00:\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00m\x00a\x00i\x00l\x00.\x00g\x00o\x00o\x00g\x00l\x00e\x00.\x00c\x00o\x00m\x00/\x00m\x00a\x00i\x00l\x00/\x00u\x00/\x000\x00/' @ 4974 : 1 .. (end); will stop at (end)

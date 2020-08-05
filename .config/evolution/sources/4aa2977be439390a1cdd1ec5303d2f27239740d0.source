@@ -1,0 +1,20 @@
+[Data Source]
+DisplayName=dattran1232003@gmail.com
+Enabled=true
+Parent=4a535d5d8b26a5c3fab799aebcce2419609fcc64
+
+[Authentication]
+Host=smtp.gmail.com
+Method=XOAUTH2
+Port=465
+ProxyUid=system-proxy
+RememberPassword=true
+User=dattran1232003@gmail.com
+CredentialName=
+IsExternal=false
+
+[Security]
+Method=ssl-on-alternate-port
+
+[Mail Transport]
+BackendName=smtp

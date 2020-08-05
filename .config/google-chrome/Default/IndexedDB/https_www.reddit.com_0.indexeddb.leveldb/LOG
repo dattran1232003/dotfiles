@@ -1,0 +1,15 @@
+2020/08/01-23:32:42.443 13f3 Reusing MANIFEST /home/trandat/.config/google-chrome/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/01-23:32:42.443 13f3 Recovering log #67
+2020/08/01-23:32:42.443 13f3 Reusing old log /home/trandat/.config/google-chrome/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/000067.log 
+2020/08/01-23:33:15.789 1342 Level-0 table #72: started
+2020/08/01-23:33:15.796 1342 Level-0 table #72: 1338 bytes OK
+2020/08/01-23:33:15.799 1342 Delete type=0 #67
+2020/08/01-23:33:15.800 1342 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/08/01-23:33:15.800 1342 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x15\x00v\x002\x00_\x00e\x00v\x00e\x00n\x00t\x00_\x00b\x00o\x00i\x00l\x00e\x00r\x00_\x00p\x00l\x00a\x00t\x00e' @ 257 : 1
+2020/08/01-23:33:15.800 1342 Compacting 1@1 + 1@2 files
+2020/08/01-23:33:15.803 1342 Generated table #73@1: 20 keys, 1337 bytes
+2020/08/01-23:33:15.803 1342 Compacted 1@1 + 1@2 files => 1337 bytes
+2020/08/01-23:33:15.807 1342 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/08/01-23:33:15.807 1342 Delete type=2 #69
+2020/08/01-23:33:15.807 1342 Delete type=2 #72
+2020/08/01-23:33:15.808 1342 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x15\x00v\x002\x00_\x00e\x00v\x00e\x00n\x00t\x00_\x00b\x00o\x00i\x00l\x00e\x00r\x00_\x00p\x00l\x00a\x00t\x00e' @ 257 : 1 .. (end); will stop at (end)

@@ -1,0 +1,15 @@
+2020/07/25-15:13:29.601 120bb Reusing MANIFEST /home/trandat/.config/google-chrome/Default/IndexedDB/https_www.sendo.vn_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/25-15:13:29.601 120bb Recovering log #75
+2020/07/25-15:13:29.601 120bb Reusing old log /home/trandat/.config/google-chrome/Default/IndexedDB/https_www.sendo.vn_0.indexeddb.leveldb/000075.log 
+2020/07/25-15:14:14.596 11cea Level-0 table #80: started
+2020/07/25-15:14:14.600 11cea Level-0 table #80: 5419 bytes OK
+2020/07/25-15:14:14.602 11cea Delete type=0 #75
+2020/07/25-15:14:14.603 11cea Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/07/25-15:14:14.603 11cea Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x04\x01 \x03\x00\xc0\xe7\x8bP8wB\x00\x016\x00[\x00H\x00T\x00M\x00L\x00:\x00w\x00e\x00b\x00]\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00w\x00w\x00w\x00.\x00s\x00e\x00n\x00d\x00o\x00.\x00v\x00n\x00/\x00g\x00i\x00a\x00-\x00r\x00u\x00t\x00-\x00c\x00a\x00m\x00-\x00x\x00e\x00-\x00d\x00a\x00p\x00.\x00h\x00t\x00m' @ 3080 : 1
+2020/07/25-15:14:14.603 11cea Compacting 1@1 + 1@2 files
+2020/07/25-15:14:14.607 11cea Generated table #81@1: 203 keys, 57345 bytes
+2020/07/25-15:14:14.607 11cea Compacted 1@1 + 1@2 files => 57345 bytes
+2020/07/25-15:14:14.610 11cea compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/07/25-15:14:14.610 11cea Delete type=2 #80
+2020/07/25-15:14:14.610 11cea Delete type=2 #77
+2020/07/25-15:14:14.610 11cea Manual compaction at level-1 from '\x00\x04\x01 \x03\x00\xc0\xe7\x8bP8wB\x00\x016\x00[\x00H\x00T\x00M\x00L\x00:\x00w\x00e\x00b\x00]\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00w\x00w\x00w\x00.\x00s\x00e\x00n\x00d\x00o\x00.\x00v\x00n\x00/\x00g\x00i\x00a\x00-\x00r\x00u\x00t\x00-\x00c\x00a\x00m\x00-\x00x\x00e\x00-\x00d\x00a\x00p\x00.\x00h\x00t\x00m' @ 3080 : 1 .. (end); will stop at (end)

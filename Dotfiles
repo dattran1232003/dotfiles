@@ -2,11 +2,6 @@
 .zshrc
 .oh-my-zsh
 .tmux.conf
-.yarn-rc
-
+.yarnrc
 .config/
-.vim/
-.tmux/
-.npm/
-.nvm/
 .yarn/

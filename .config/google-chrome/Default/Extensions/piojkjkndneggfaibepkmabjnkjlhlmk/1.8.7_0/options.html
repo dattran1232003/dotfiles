@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link rel=stylesheet href="css/options.css">
+</head>
+
+<body>
+  <!-- tabs -->
+  <h3>Tab Management</h3>
+  <div class="item">
+    <input id="new-tab" type="checkbox">
+    <label>Always create new tab, otherwise re-use recent created tab.</label>
+  </div>
+
+  <!-- languages -->
+  <h3>Target Languages</h3>
+  <div id="langs" class="item langs"></div>
+  <div id="hint" class="item warning">NOTICE: If more than one languages are selected, Chrome will collapse them into a single parent menu.</div>
+
+  <!-- buttons -->
+  <div class="buttons">
+    <button id="save">Save &amp; Close</button>
+    <span id="save-status"></span>
+  </div>
+
+  <!-- scripts -->
+  <script type="module" src="js/types.js"></script>
+  <script type="module" src="js/options.js"></script>
+</body>
+
+</html>

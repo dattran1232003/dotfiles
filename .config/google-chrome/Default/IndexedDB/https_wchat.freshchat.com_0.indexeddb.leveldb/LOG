@@ -1,0 +1,5 @@
+2020/07/23-19:45:37.832 854a Reusing MANIFEST /home/trandat/.config/google-chrome/Default/IndexedDB/https_wchat.freshchat.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/23-19:45:46.375 77f8 Level-0 table #5: started
+2020/07/23-19:45:46.381 77f8 Level-0 table #5: 17665 bytes OK
+2020/07/23-19:45:46.385 77f8 Delete type=0 #3
+2020/07/23-19:45:46.386 77f8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

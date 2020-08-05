@@ -1,0 +1,32 @@
+{
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+    "terminal.integrated.shellArgs.windows": [
+        "/k",
+        "%CMDER_ROOT%\\vendor\\init.bat"
+    ],
+    "workbench.iconTheme": "material-icon-theme",
+    "C_Cpp.updateChannel": "Insiders",
+    "workbench.colorTheme": "Material Theme Darker High Contrast",
+    "vsicons.dontShowNewVersionMessage": true,
+    "[html]": {
+        "editor.defaultFormatter": "lonefy.vscode-JS-CSS-HTML-formatter"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "window.zoomLevel": -2,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.fontFamily": "Roboto ",
+    "editor.fontLigatures": true,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "git.ignoreMissingGitWarning": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "explorer.confirmDragAndDrop": false,
+    "editor.tabSize": 2,
+    "explorer.confirmDelete": false,
+    "sync.gist": "b082d9d527487c814a867499ef332917",
+    "terminal.integrated.fontFamily": "monospace",
+    "editor.fontSize": 18,
+    "editor.accessibilityPageSize": 12
+}
