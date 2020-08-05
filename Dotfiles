@@ -1,0 +1,12 @@
+.vimrc
+.zshrc
+.oh-my-zsh
+.tmux.conf
+.yarn-rc
+
+.config/
+.vim/
+.tmux/
+.npm/
+.nvm/
+.yarn/
