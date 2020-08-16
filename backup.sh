@@ -2,11 +2,8 @@
 
 git pull origin master
 while read f; do
-    if [$f != ""]
-    then
-        echo "Backup file $f..."
-        cp -rf $HOME/$f ./
-    fi
+    echo "Backup file $f..."
+    cp -rf $HOME/$f ./
 done < Dotfiles
 echo "Backup files done, please commit!"
 
