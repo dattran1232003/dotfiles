@@ -1,13 +1,13 @@
-2020/07/29-14:09:29.749 4e9e Reusing MANIFEST /home/trandat/.config/Postman/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
-2020/07/29-14:09:29.750 4e9e Recovering log #41
-2020/07/29-14:09:29.751 4e9e Reusing old log /home/trandat/.config/Postman/IndexedDB/file__0.indexeddb.leveldb/000041.log 
-2020/07/29-14:09:29.751 4e9e Delete type=2 #42
-2020/07/29-14:09:29.751 4e9e Delete type=2 #39
-2020/07/29-14:09:38.542 4f2e Level-0 table #46: started
-2020/07/29-14:09:38.548 4f2e Level-0 table #46: 19849 bytes OK
-2020/07/29-14:09:38.551 4f2e Delete type=0 #41
-2020/07/29-14:09:38.551 4f2e Manual compaction at level-0 from '\x00\x0e\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0f\x00\x00\x00' @ 0 : 0; will stop at (end)
-2020/07/29-14:09:45.485 4f2e Compacting 1@1 + 1@2 files
-2020/07/29-14:09:45.500 4f2e Generated table #47@1: 1443 keys, 88760 bytes
-2020/07/29-14:09:45.500 4f2e Compacted 1@1 + 1@2 files => 88760 bytes
-2020/07/29-14:09:45.503 4f2e compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/08/14-19:57:13.261 c420c Reusing MANIFEST /home/trandat/.config/Postman/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2020/08/14-19:57:13.262 c420c Recovering log #53
+2020/08/14-19:57:13.286 c420c Reusing old log /home/trandat/.config/Postman/IndexedDB/file__0.indexeddb.leveldb/000053.log 
+2020/08/14-19:57:24.743 c4941 Level-0 table #58: started
+2020/08/14-19:57:24.758 c4941 Level-0 table #58: 417374 bytes OK
+2020/08/14-19:57:24.761 c4941 Delete type=0 #53
+2020/08/14-19:57:24.761 c4941 Manual compaction at level-0 from '\x00\x11\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x12\x00\x00\x00' @ 0 : 0; will stop at (end)
+2020/08/14-19:57:26.124 c4941 Compacting 1@1 + 1@2 files
+2020/08/14-19:57:26.146 c4941 Generated table #59@1: 1882 keys, 131654 bytes
+2020/08/14-19:57:26.146 c4941 Compacted 1@1 + 1@2 files => 131654 bytes
+2020/08/14-19:57:26.150 c4941 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/08/14-19:57:26.150 c4941 Delete type=2 #55
+2020/08/14-19:57:26.150 c4941 Delete type=2 #58

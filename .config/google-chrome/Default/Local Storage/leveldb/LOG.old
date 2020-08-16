@@ -1,6 +1,6 @@
-2020/08/01-23:31:21.736 11e2 Reusing MANIFEST /home/trandat/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
-2020/08/01-23:31:21.737 11e2 Recovering log #1147
-2020/08/01-23:31:21.739 11e2 Reusing old log /home/trandat/.config/google-chrome/Default/Local Storage/leveldb/001147.log 
-2020/08/01-23:32:24.465 13b8 Level-0 table #1153: started
-2020/08/01-23:32:24.472 13b8 Level-0 table #1153: 18374 bytes OK
-2020/08/01-23:32:24.476 13b8 Delete type=0 #1147
+2020/08/02-11:26:02.369 19eab Reusing MANIFEST /home/trandat/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2020/08/02-11:26:02.372 19eab Recovering log #1152
+2020/08/02-11:26:02.373 19eab Reusing old log /home/trandat/.config/google-chrome/Default/Local Storage/leveldb/001152.log 
+2020/08/02-11:26:16.696 1a302 Level-0 table #1156: started
+2020/08/02-11:26:16.705 1a302 Level-0 table #1156: 26442 bytes OK
+2020/08/02-11:26:16.709 1a302 Delete type=0 #1152

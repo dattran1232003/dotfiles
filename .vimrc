@@ -25,7 +25,15 @@ Plug 'christoomey/vim-tmux-navigator'
 
 " close
 Plug 'rstacruz/vim-closer'
+
+" Matrix
+Plug 'uguu-org/vim-matrix-screensaver'
+
+" File
+Plug 'kien/ctrlp.vim'
+
 call plug#end()
+
 
 nnoremap <Left>  :echoe "Use h"<CR>
 nnoremap <Right> :echoe "Use l"<CR>
@@ -84,6 +92,7 @@ noremap <Leader>tN :tabnew<CR>" Easily close a tab.
 noremap <Leader>tc :tabclose<CR>" Easily move a tab.
 noremap <Leader>tm :tabmove<CR>" Easily go to next tab.
 noremap <Leader>tn :tabnext<CR>" Easily go to previous tab.
+noremap <Leader>td :DuplicateTabpane<CR> " Easily duplicate a tab.
 noremap <Leader>tp :tabprevious<CR>
 
 
@@ -155,3 +164,18 @@ hi PmenuSel ctermfg=NONE ctermbg=24 cterm=NONE guifg=NONE guibg=#204a87 gui=NONE
 
 " Share clipboard between Vim and OS, across platform
 set clipboard=unnamedplus
+
+"" Duplicate tab
+command! -bar DuplicateTabpane
+      \ let s:sessionoptions = &sessionoptions |
+      \ try |
+      \   let &sessionoptions = 'blank,help,folds,winsize,localoptions' |
+      \   let s:file = tempname() |
+      \   execute 'mksession ' . s:file |
+      \   tabnew |
+      \   execute 'source ' . s:file |
+      \ finally |
+      \   silent call delete(s:file) |
+      \   let &sessionoptions = s:sessionoptions |
+      \   unlet! s:file s:sessionoptions |
+      \ endtry
