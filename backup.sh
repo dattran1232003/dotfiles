@@ -2,7 +2,7 @@
 
 git pull origin master
 while read f; do
-    if [f != ""]
+    if [$f != ""]
     then
         echo "Backup file $f..."
         cp -rf $HOME/$f ./
